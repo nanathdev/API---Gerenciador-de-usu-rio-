@@ -1,4 +1,4 @@
-# 👤 API de Gerenciamento de Usuários
+#  API de Gerenciamento de Usuários
 
 API construída com **FastAPI**, **SQLAlchemy** e **Python** para gerenciar usuários, autenticação e upload de arquivos. Projetada para ser simples, funcional e pronta para testes locais.
 
@@ -6,16 +6,16 @@ API construída com **FastAPI**, **SQLAlchemy** e **Python** para gerenciar usu�
 
 ---
 
-## 🔹 Funcionalidades
+##  Funcionalidades
 
-- ✅ Criar, listar, atualizar e deletar usuários
-- ✅ Upload de arquivos (ex: fotos de perfil)
-- ✅ Validação de dados com Pydantic
-- ✅ Testes rápidos com Uvicorn e Swagger UI
+- Criar, listar, atualizar e deletar usuários
+- Upload de arquivos (ex: fotos de perfil)
+- Validação de dados com Pydantic
+- Testes rápidos com Uvicorn e Swagger UI
 
 ---
 
-## 🔹 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 | Tecnologia | Versão |
 |------------|--------|
@@ -28,7 +28,7 @@ API construída com **FastAPI**, **SQLAlchemy** e **Python** para gerenciar usu�
 
 ---
 
-## 🔹 Pré-requisitos
+## Pré-requisitos
 
 - Python 3.12 ou superior
 - Git (opcional, se for clonar o repositório)
@@ -36,7 +36,7 @@ API construída com **FastAPI**, **SQLAlchemy** e **Python** para gerenciar usu�
 
 ---
 
-## 🔹 Como rodar localmente
+## Como rodar localmente
 
 **1. Clone o repositório**
 ```bash
@@ -74,7 +74,7 @@ Abra no navegador: [http://localhost:8000/docs](http://localhost:8000/docs)
 
 ---
 
-## 🔹 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 user-management-api/
@@ -93,7 +93,7 @@ user-management-api/
 
 ---
 
-## 🔹 Endpoints principais
+## Endpoints principais
 
 | Método | Rota | Descrição |
 |--------|------|-----------|
